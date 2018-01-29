@@ -1,2 +1,2 @@
-# TextPal
-Text message pal. Reminders, photos, etc
+# Jeeves
+Jeeves your personal texting butler. Reminders, photos, etc
